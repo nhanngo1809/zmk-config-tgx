@@ -36,8 +36,8 @@
 			bindings = <
 				&trans &trans   &trans    &trans &trans &trans &trans  &trans   &trans    &trans   &trans   		       &bootloader
 				&none     &kp HOME &kp PG_UP &trans &trans &trans &kp LBKT &kp RBKT &kp EQUAL &kp BSLH  &kp FSLH           &bt BT_CLR
-				&trans    &kp END  &kp PG_DN &trans &trans &trans &trans   &trans   &trans    &trans                       &trans
-				&trans    &trans   &trans    &trans                        &trans   &trans    &BT_SEL 0  &BT_SEL 0         &BT_SEL 1
+				&trans    &kp END  &kp PG_DN &trans &trans &trans &trans   &trans   &trans    &trans     &trans            &trans
+				&trans    &trans   &trans    &trans        &trans   &trans    &BT_SEL 2  &BT_SEL 0         &BT_SEL 1
 			>;
 		};
 
