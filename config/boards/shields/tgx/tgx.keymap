@@ -37,7 +37,7 @@
 				&trans &trans   &trans    &trans &trans &trans &trans  &trans   &trans    &trans   &trans   		       &bootloader
 				&none     &kp HOME &kp PG_UP &trans &trans &trans &kp LBKT &kp RBKT &kp EQUAL &kp BSLH  &kp FSLH           &bt BT_CLR
 				&trans    &kp END  &kp PG_DN &trans &trans &trans &trans   &trans   &trans    &trans     &trans            &trans
-				&kp LCTRL    &kp LGUI &kp LALT &kp SPACE                 &mo 1 &kp RALT  &kp LEFT     &kp DOWN            &kp RIGHT
+				&kp LCTRL    &kp LGUI &kp LALT &kp SPACE                 &mo 1 &kp RALT  &kp LEFT     &bt BT SEL_0           &kp RIGHT
 			>;
 		};
 
